@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/logo traspararente.png"
+        "logo": "/images/logo traspararente.png",
+        "logo_alt": "30000"
     },
     "footer": {
         "has_nav": true,
